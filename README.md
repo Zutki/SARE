@@ -22,6 +22,8 @@ is tedious however I am unaware of a better way to do it
 
 
 If you encounter any issues with SARE, feel free to open an issue on Github
+
+
 DISCLAIMER: I am by no means a great Java developer, if certain sections of code can be written way better, let me know! Or even open a pull request!
 
 # How to use
